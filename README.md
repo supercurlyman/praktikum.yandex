@@ -1,1 +1,1 @@
-# https-praktikum.yandex
+Пraktikum.yandex
